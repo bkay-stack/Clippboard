@@ -19,6 +19,15 @@ body {
 
 
 
+#header-img {
+    background-image:url(./images/bg-header-mobile.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+}
+
+
 .first-img > img {
     position: relative;
 
